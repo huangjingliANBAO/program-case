@@ -11,12 +11,13 @@ import java.io.*;
 public class BufferFileCopy {
     public static void main(String[] args) {
         String filepath = System.getProperty("user.dir");
-        BufferedInputStream bis = null;
-        BufferedOutputStream bos = null;
+        BufferedReader bis = null;
+        BufferedWriter bos = null;
         try{
-            //使用缓冲流装饰一下
-            bis = new BufferedInputStream(new FileInputStream(filepath + "\\data.txt"));
-            bos = new BufferedOutputStream(new FileOutputStream(filepath + "\\copy.txt"));
+            //使用字符缓冲流装饰一下
+            bis = new BufferedReader(new FileReader(filepath + "\\data.txt"));
+            bos = new BufferedWriter(new FileWriter(filepath + "\\copy.txt"));
+            //设置临时变量
             int temp;
             while ((temp = bis.read()) != -1){
                 bos.write(temp);
