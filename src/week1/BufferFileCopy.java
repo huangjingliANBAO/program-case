@@ -14,7 +14,7 @@ public class BufferFileCopy {
         BufferedReader bis = null;
         BufferedWriter bos = null;
         try{
-            //使用字符缓冲流装饰一下
+            //使用字符缓冲流  data.txt为源文件  copy.txt为copy后的文件
             bis = new BufferedReader(new FileReader(filepath + "\\data.txt"));
             bos = new BufferedWriter(new FileWriter(filepath + "\\copy.txt"));
             //设置临时变量
