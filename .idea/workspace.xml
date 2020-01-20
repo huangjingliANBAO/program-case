@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d61ed51-21bb-4a78-bfce-2d06711a7b12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/week2/ObjSerializeAndDeserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/FileImageTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week3/RandomAccessFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week4/MaxTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week1/BufferFileCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/BufferFileCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/program-case/week2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/program-case/week2/Student.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +62,13 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\program-case" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,13 +82,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjSerializeAndDeserialize">
+  <component name="RunManager" selected="Application.MaxTest">
     <configuration name="BufferFileCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.BufferFileCopy" />
       <module name="program-case" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4.MaxTest" />
+      <module name="program-case" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.RandomNumber" />
+    <configuration name="RandomAccessFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.RandomAccessFileTest" />
       <module name="program-case" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,10 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxTest" />
+        <item itemvalue="Application.RandomAccessFileTest" />
         <item itemvalue="Application.ObjSerializeAndDeserialize" />
         <item itemvalue="Application.RandomNumberIo" />
         <item itemvalue="Application.BufferFileCopy" />
-        <item itemvalue="Application.RandomNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +174,10 @@
       <workItem from="1578969191435" duration="11592000" />
       <workItem from="1579062427280" duration="85000" />
       <workItem from="1579063622623" duration="78000" />
-      <workItem from="1579085933992" duration="2360000" />
+      <workItem from="1579085933992" duration="3688000" />
+      <workItem from="1579264562191" duration="3541000" />
+      <workItem from="1579268830027" duration="5091000" />
+      <workItem from="1579437101675" duration="3493000" />
     </task>
     <servers />
   </component>
