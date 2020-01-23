@@ -2,14 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d61ed51-21bb-4a78-bfce-2d06711a7b12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/FileImageTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week3/RandomAccessFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/week4/MaxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0_M1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/AdminDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/AdminDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/BaseDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week5/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/week6/MyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/program-case/week2/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/program-case/week2/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/program-case/week1/BufferFileCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/program-case/week1/RandomNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/program-case/week1/RandomNumberIo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/program-case/week2/ObjSerializeAndDeserialize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/program-case/week2/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/program-case/week3/FileImageTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/program-case/week3/RandomAccessFileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/program-case/week4/Max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/program-case/week4/MaxTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/program-case.iml" beforeDir="false" afterPath="$PROJECT_DIR$/program-case.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/BufferFileCopy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/RandomNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week1/RandomNumberIo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/ObjSerializeAndDeserialize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3/FileImageTraversal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3/RandomAccessFileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/Max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week4/MaxTest.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +62,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -38,6 +77,7 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -52,10 +92,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.jscs" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.jscs" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -63,7 +106,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -82,13 +125,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxTest">
-    <configuration name="BufferFileCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.BufferFileCopy" />
+  <component name="RunManager" selected="Application.MyRunnable">
+    <configuration name="DbUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.DbUtil" />
       <module name="program-case" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjSerializeAndDeserialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week2.ObjSerializeAndDeserialize" />
+    <configuration name="MyRunnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week6.MyRunnable" />
       <module name="program-case" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week2.*" />
+          <option name="PATTERN" value="week6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,26 +178,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNumberIo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.RandomNumberIo" />
+    <configuration name="AdminDaoTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="program-case" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week1.*" />
+          <option name="PATTERN" value="week5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="week5" />
+      <option name="MAIN_CLASS_NAME" value="week5.AdminDaoTest" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyRunnable" />
+        <item itemvalue="JUnit.AdminDaoTest.selectAll" />
+        <item itemvalue="Application.DbUtil" />
         <item itemvalue="Application.MaxTest" />
         <item itemvalue="Application.RandomAccessFileTest" />
-        <item itemvalue="Application.ObjSerializeAndDeserialize" />
-        <item itemvalue="Application.RandomNumberIo" />
-        <item itemvalue="Application.BufferFileCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +224,10 @@
       <workItem from="1579264562191" duration="3541000" />
       <workItem from="1579268830027" duration="5091000" />
       <workItem from="1579437101675" duration="3493000" />
+      <workItem from="1579496829022" duration="317000" />
+      <workItem from="1579609899155" duration="3166000" />
+      <workItem from="1579614438561" duration="2732000" />
+      <workItem from="1579701560228" duration="2921000" />
     </task>
     <servers />
   </component>
